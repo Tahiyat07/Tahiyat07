@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahiyat</h1>
-<h3 align="center">Golang enthusiast | UI/UX Designer | Frontend Developer |</h3>
+<h3 align="center">Golang Enthusiast | UI/UX Designer | Frontend Developer |</h3>
 
 - 🌱 I’m currently learning **Golang**
 
